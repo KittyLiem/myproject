@@ -19,7 +19,6 @@
     <orderEntry type="library" scope="RUNTIME" name="Maven: org.apache.taglibs:taglibs-standard-impl:1.2.5" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: org.onehippo.cms7.hst:hst-content-beans:13.0.0" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: commons-lang:commons-lang:2.6" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Maven: commons-collections:commons-collections:3.2.2" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: org.apache.commons:commons-proxy:1.0" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: org.onehippo.cms7.hst:hst-commons:13.0.0" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.9.7" level="project" />
@@ -96,7 +95,15 @@
     <orderEntry type="library" scope="PROVIDED" name="Maven: org.apache.jackrabbit:jackrabbit-spi-commons:2.16.2-h3" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: org.apache.jackrabbit:jackrabbit-spi:2.16.2-h3" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: org.onehippo.cms7:hippo-plugin-selections-hst-client:13.0.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.onehippo.cms7:hippo-plugin-poll-hst-client:13.0.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.onehippo.cms7:hippo-addon-enterprise-site-toolkit-pagemodel-pagemodelapi-v09:13.0.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.onehippo.cms7:hippo-plugin-taxonomy-api:13.0.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.onehippo.cms7:hippo-plugin-taxonomy-hst-api:13.0.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.onehippo.cms7:hippo-plugin-taxonomy-hstclient:13.0.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: commons-collections:commons-collections:3.2.2" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: org.freemarker:freemarker:2.3.28" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.onehippo.cms7:hippo-enterprise-services:13.0.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.onehippo.cms7:hippo-addon-wpm-camunda:war:13.0.0" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: org.onehippo.cms7:hippo-cms7-commons:13.0.0" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: org.onehippo.cms7:hippo-services:13.0.0" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: org.onehippo.cms7:hippo-repository-api:13.0.0" level="project" />

@@ -155,6 +155,8 @@
     <orderEntry type="library" name="Maven: com.fasterxml.jackson.jaxrs:jackson-jaxrs-base:2.9.7" level="project" />
     <orderEntry type="library" name="Maven: com.fasterxml.jackson.module:jackson-module-jaxb-annotations:2.9.7" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-web:5.1.1.RELEASE" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.onehippo.cms7:hippo-enterprise-services:13.0.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.onehippo.cms7:hippo-addon-wpm-camunda:war:13.0.0" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: org.onehippo.cms7:hippo-cms7-commons:13.0.0" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: org.onehippo.cms7:hippo-services:13.0.0" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: org.onehippo.cms7:hippo-repository-api:13.0.0" level="project" />

@@ -1,6 +1,8 @@
 /content/documents/myproject:
+  .meta:order-before: administration
   jcr:primaryType: hippostd:folder
   jcr:mixinTypes: ['hippo:named', 'hippotranslation:translated', 'mix:referenceable']
+  jcr:uuid: c7086b85-f8f4-419b-be4e-223aa7ca6c9b
   hippo:name: My Bloomreach 13 Project
   hippostd:foldertype: [new-translated-folder, new-document]
   hippotranslation:id: 996bcac5-86cf-49b5-a7a3-16a74863e814
